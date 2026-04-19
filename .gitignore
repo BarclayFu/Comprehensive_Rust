@@ -1,0 +1,15 @@
+# Rust build output
+/target/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Rust
+**/*.rs.bk
+*.pdb
